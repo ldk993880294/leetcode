@@ -1,5 +1,5 @@
 public class Duplicate {
-    public static void main(String[] args) {
+    public static void main(ComString[] args) {
         int[] input=new int[]{2, 3, 1, 0, 2, 5};
         System.out.println(duplicate(input));
     }
